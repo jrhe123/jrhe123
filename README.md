@@ -21,8 +21,8 @@ Welcome to my GitHub! I'm a Senior Software Developer with extensive experience 
 - **Testing & CI**: Jest, RSpec, JUnit, CircleCI, JMeter
 - **Miscellaneous**: Encrypted payment gateways, 3D modeling (Rhino, KeyShot), FHIR software standards
 
-## 📫 How to reach me
-- [GitHub](https://github.com/jrhe123/short_cut)
+## 📫 Demo
+- [DEMO](https://github.com/jrhe123/short_cut)
 
 ## 💡 Fun fact
 In my free time, I enjoy building video games
