@@ -2,11 +2,12 @@
 
 Welcome to my GitHub! I'm a Senior Software Developer with extensive experience in delivering innovative, scalable, and reliable software solutions across various industries. I have a strong technical background and a passion for AI, big data, and cloud-based architectures.
 
-## 🔭 Projects I'm Working On (2024)
+## 🔭 Projects I'm Working On (2025)
 - **LLMOps**: Developing tools for operationalizing large language models.
 - **Recommendation Big Data**: Implementing scalable recommendation systems leveraging big data frameworks like Spark.
 - **PyTorch in Finance**: Utilizing PyTorch to develop machine learning models for financial data analysis and trading algorithms.
 - **Video Stream with AI Detection**: Building AI-powered systems to enable real-time video stream detection and analysis.
+- **Ticket Center**: Building Flash Sale Ticketing System.
 
 ## 💼 Skills
 - **Programming Languages**: Python, Java, C#, Ruby, PHP, NodeJS, TypeScript, Solidity, CPP
